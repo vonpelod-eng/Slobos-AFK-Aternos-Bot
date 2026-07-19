@@ -8,7 +8,7 @@
   "server": {
     "ip": "calmlilworld.aternos.me",
     "port": 22624,
-    "version": "",
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
